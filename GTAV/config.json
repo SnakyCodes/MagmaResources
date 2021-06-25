@@ -1,0 +1,114 @@
+{
+  "Hotkeys": [
+    {
+      "Action": "TeleportToWaypoint",
+      "VirtualKey": 117
+    },
+    {
+      "Action": "HealAll",
+      "VirtualKey": 118
+    },
+    {
+      "Action": "ToggleWantedLevel",
+      "VirtualKey": 119
+    },
+    {
+      "Action": "TeleportToObjective",
+      "VirtualKey": 121
+    }
+  ],
+  "Menu": {
+    "KeyBindings": {
+      "BackKey": 96,
+      "DownKey": 98,
+      "LeftKey": 100,
+      "MenuToggle": 116,
+      "RightKey": 102,
+      "SelectKey": 101,
+      "UpKey": 104
+    },
+    "Opacity": 176,
+    "ViewableItems": 30,
+    "XPosition": 240,
+    "YPosition": 40
+  },
+  "PlayerOptions": {
+    "EveryoneIgnore": false,
+    "FreezeWantedLevel": false,
+    "GodMode": true,
+    "HealthBoost": "Normal",
+    "NeverWanted": false,
+    "NoRagdoll": false,
+    "PoliceIgnore": true,
+    "RunSpeed": 1.000000,
+    "SeatbeltEnabled": false,
+    "SwimSpeed": 1.000000,
+    "Waterproof": true
+  },
+  "Protection": {
+    "DisableSendToIsland": true,
+    "DisableSendToJob": true,
+    "DisableTeleportToApartment": true,
+    "DisableVehicleKick": true,
+    "DisableWeatherControl": true,
+    "NoAlterStats": false,
+    "NoAlterWantedLevel": true,
+    "NoForceKickToSP": true,
+    "NoFreeze": true,
+    "NoPTFX": true,
+    "NoRemoteControl": true,
+    "NoRemoteRagdoll": true,
+    "NoRemoteTeleport": true,
+    "NoRemoveAllWeapons": true,
+    "NoRemoveWeapon": true,
+    "RemoteStatProtection": true
+  },
+  "Services": {
+    "MutePhonecalls": false
+  },
+  "Tunables": {
+    "APMultiplier": 1.000000,
+    "ExtendBunkerTimers": false,
+    "ExtendExportTimers": false,
+    "ExtendMCTimers": false,
+    "ExtendNightclubTimers": false,
+    "MinMissionPayout": 0.000000,
+    "NoIdleAFK": false,
+    "RPMultiplier": 1.000000,
+    "RemoveBunkerSupplyDelay": false,
+    "RemoveCratesCooldown": false,
+    "RemoveEWOCooldown": false,
+    "RemoveFreemodeMissionCooldown": false,
+    "RemoveIECooldown": false,
+    "RemoveMCSupplyDelay": false,
+    "RemoveMissionTimeThrottling": false,
+    "RemoveNightclubCooldown": false,
+    "RemoveOppressorCooldown": false,
+    "RemoveOrbitalCooldown": false,
+    "RemovePassiveModeCooldown": false,
+    "RemoveVehicleDeliveryDelay": false,
+    "UnlockAllResearch": false,
+    "UnlockAllVehicles": false,
+    "WheelAPReward": 0,
+    "WheelMoneyReward": 0,
+    "WheelRPReward": 0
+  },
+  "Vehicle": {
+    "BoostAutoRecharge": false,
+    "DisableRestore": false,
+    "FreezeAmmo": false,
+    "InfiniteBoost": false,
+    "MaxSpeed": 0.000000,
+    "Untargetable": false
+  },
+  "Weapons": {
+    "DisableRestore": false,
+    "FreezeAmmo": false,
+    "InfiniteAmmo": true,
+    "InfiniteClip": true,
+    "LongRange": false,
+    "NoRecoil": false,
+    "NoReload": false,
+    "NoSpread": false
+  }
+}
